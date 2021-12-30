@@ -11,7 +11,7 @@
 - 📫 How to reach me:
 
   - Website: [https://hermanceaser.github.io](https://hermanceaser.github.io) for more projects
-  - Linkedin: [@hermanceaser](https://www.linkedin.com/hermanceaser/)
+  - Linkedin: [@hermanceaser](https://www.linkedin.com/in/hermanceaser/)
 
   - Twitter: [@HermanCeaser](https://www.twitter.com/HermanCeaser/)
   - <a href="mailto:ceaserbanks09@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
