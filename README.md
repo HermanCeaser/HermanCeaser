@@ -19,7 +19,7 @@
 <!--
 **HermanCeaser/HermanCeaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/herman_ceaser"><img src="https://api.daily.dev/devcards/cef17c691b7e469fa98a5e0b09e5eb7b.png?r=kgf" width="400" alt="Herman Ceaser's Dev Card"/></a>
+- <a href="https://app.daily.dev/herman_ceaser"><img src="https://api.daily.dev/devcards/cef17c691b7e469fa98a5e0b09e5eb7b.png?r=kgf" width="400" alt="Herman Ceaser's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
