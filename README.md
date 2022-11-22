@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Herman Ceaser,
 
-![My_Image](blob/profile.PNG)
+[![Ceaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermanCeaser)](https://github.com/HermanCeaser/github-readme-stats)
 
 - 🔭 I’m a software Engineer, currently working @Efficiencie
 - ⚡ I'm a backend expert in php, python and javascript frameworks
