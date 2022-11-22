@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Herman Ceaser,
 
-[![Ceaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermanCeaser)](https://github.com/HermanCeaser/github-readme-stats)
 
 - 🔭 I’m a software Engineer, currently working @Efficiencie
 - ⚡ I'm a backend expert in php, python and javascript frameworks
@@ -9,10 +8,8 @@
 - 💬 Well, am still finding my way through AI with python specifically convesational AI where i am building an Insurance conversational AI Agent called [Vidabot](https://myvidabot.herokuapp.com/)
 - 🌱 I’m currently working on edutech system using php laravel and react js. Feel free to check it out [Edplus360](https://www.edplus360.com)
 - 📫 How to reach me:
-
   - Website: [https://hermanceaser.github.io](https://hermanceaser.github.io) for more projects
   - Linkedin: [@hermanceaser](https://www.linkedin.com/in/hermanceaser/)
-
   - Twitter: [@HermanCeaser](https://www.twitter.com/HermanCeaser/)
   - <a href="mailto:ceaserbanks09@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -32,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Ceaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermanCeaser)](https://github.com/HermanCeaser/github-readme-stats)
+
