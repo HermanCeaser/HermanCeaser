@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Herman Ceaser,
 
 
-- 🔭 I’m a software Engineer, currently working @Efficiencie
-- ⚡ I'm a backend expert in PHP, Node.js & Python
+- 🔭 I’m a Full-stack software Engineer
+- ⚡ I'm a backend expert in Node.js, PHP & Python
 - 😄 I use React.Js/NextJs for my front-end apps, as well as Vue.js, html, Tailwindcss.
 - 👯 I’m a Devops goto guy who is well conversant with CI/CD platforms like Github bitbucket, git, GCP AWS etc ...
 - 💬 Well, am still finding my way through Web3 with Move Programming Language on the Sui and Aptos Chains
