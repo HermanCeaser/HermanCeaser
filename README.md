@@ -2,12 +2,13 @@
 
 
 - 🔭 I’m a Full-stack software Engineer
-- ⚡ I'm a backend expert in Node.js, PHP & Python
+- ⚡ I'm a backend expert in Node.js, PHP & Python while learning Rust
 - 😄 I use React.Js/NextJs for my front-end apps, as well as Vue.js, html, Tailwindcss.
 - 👯 I’m a Devops goto guy who is well conversant with CI/CD platforms like Github bitbucket, git, GCP AWS etc ...
 - 💬 Well, am still finding my way through Web3 with Move Programming Language on the Sui and Aptos Chains
 - 🌱 I  worked on an edutech system using php/laravel and react js. Feel free to check it out [Edplus360](https://www.edplus360.com)
 - I built a Relatime Payment Streaming App using React.Js, NextJs, Typescript and Radix UI. checkit out at [Real Time Payments](https://real-time-payments.vercel.app/)
+- Currently learning Rust and web3 Programming with the Solana Blockchain
 - 📫 How to reach me:
   <!-- Website: [https://hermanceaser.github.io](https://hermanceaser.github.io) for more projects -->
   - Linkedin: [@hermanceaser](https://www.linkedin.com/in/hermanceaser/)
